@@ -4,7 +4,7 @@
 <h3 align="center">Hi there! 👋 I'm a frontend developer with a passion for creating beautiful and user-friendly websites. My GitHub profile is where I showcase my latest projects and experiments.
 <br />
 <br />
-When it comes to my code, I'm all about clean, readable, and well-organized code. I believe that code should be easy to understand and maintain, even as it evolves over time. I'm always looking for ways to improve my coding skills, and I'm not afraid to learn new things or take on new challenges. 
+I'm always looking for ways to improve my coding skills, and I'm not afraid to learn new things or take on new challenges. 
 <br />
 <br />
 If you're interested in collaborating on a project or just want to connect with me, feel free to send me a message or check out my latest code on my GitHub profile. Thanks for stopping by! 🙌</h3>
