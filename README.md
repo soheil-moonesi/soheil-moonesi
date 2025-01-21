@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soheil-moonesi" alt="soheil-moonesi" /></a> </p>
 
-<h3 align="left">Connect with me:<a href="https://soheil-moonesi.github.io/QuartzRepository"></h3>
 <p align="left">
 </p>
 
